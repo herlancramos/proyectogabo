@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/proyectogabo/static/css/main.b1d7ec7b.css",
+    "main.js": "/proyectogabo/static/js/main.d18af7cd.js",
+    "static/js/787.77189dcb.chunk.js": "/proyectogabo/static/js/787.77189dcb.chunk.js",
+    "static/media/im2.jpg": "/proyectogabo/static/media/im2.0010c12d4ed733d41901.jpg",
+    "static/media/img_banner_1.jpg": "/proyectogabo/static/media/img_banner_1.fc4b8cbff7aa41882c38.jpg",
+    "static/media/img_banner_2.jpg": "/proyectogabo/static/media/img_banner_2.77ff3a56873bf4988407.jpg",
+    "static/media/img_banner_3.jpg": "/proyectogabo/static/media/img_banner_3.0c9b91b651f7e27d8b33.jpg",
+    "static/media/hola13.jpg": "/proyectogabo/static/media/hola13.e32198f94655055d9043.jpg",
+    "static/media/im87.jpg": "/proyectogabo/static/media/im87.33a8f73a2a6c92857e38.jpg",
+    "static/media/natalia_soto.jpg": "/proyectogabo/static/media/natalia_soto.4b332ec04e6593287520.jpg",
+    "static/media/jennifer_vargas.jpeg": "/proyectogabo/static/media/jennifer_vargas.8b1ae0d598e1344c7143.jpeg",
+    "static/media/francisco_alarcon.jpg": "/proyectogabo/static/media/francisco_alarcon.3fc4a1627b44d0a0502f.jpg",
+    "static/media/ada_lizbeth.jpeg": "/proyectogabo/static/media/ada_lizbeth.f51bf77b53e98d589f95.jpeg",
+    "static/media/adriana_vecino.jpg": "/proyectogabo/static/media/adriana_vecino.bba163a90a3a802202cf.jpg",
+    "static/media/ima45.jpg": "/proyectogabo/static/media/ima45.49938eb165e4e46053c8.jpg",
+    "static/media/error404.png": "/proyectogabo/static/media/error404.fab8ad695e2026cc86b8.png",
+    "index.html": "/proyectogabo/index.html",
+    "main.b1d7ec7b.css.map": "/proyectogabo/static/css/main.b1d7ec7b.css.map",
+    "main.d18af7cd.js.map": "/proyectogabo/static/js/main.d18af7cd.js.map",
+    "787.77189dcb.chunk.js.map": "/proyectogabo/static/js/787.77189dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.d18af7cd.js"
+  ]
+}
